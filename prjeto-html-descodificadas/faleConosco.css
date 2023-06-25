@@ -1,0 +1,39 @@
+.logo{
+    width: 90px;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+header{
+    background-image: url(img/banner.jpg);
+    border: 3px solid purple;
+    position: relative;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+
+nav li{
+    display: inline;
+    margin: 0 0 0 10px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    position: relative;
+    left: 70%;
+    
+}
+
+.imagem{
+    width: 20%;
+}
+
+p{
+    font-size: 20px;
+}
